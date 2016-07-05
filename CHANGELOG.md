@@ -1,0 +1,20 @@
+# Change Log
+All notable changes to this project will be documented in this file.
+This project adheres to [Semantic Versioning](http://semver.org/).
+
+## [Unreleased]
+
+## 1.2.0 - 2016-07-05
+### Removed
+- Removed volume definitions, as mostly adding stuff into them in child Dockerfile's which causes issues
+
+## 1.1.0 - 2016-06-29
+### Added
+- php module mcrypt
+
+## 1.0.0 - 2016-06-10
+### Added
+- Initial commit
+- xhgui version v0.7.1
+
+[Unreleased]: https://github.com/p13eater/docker-xhgui/compare/v1.0.0...HEAD
